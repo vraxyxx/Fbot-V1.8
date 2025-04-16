@@ -4,7 +4,7 @@ module.exports = {
     admin: true,
     usage: "cmd",
     version: "1.0",
-    description: "Show admin-only commands.",
+    description: "Show in owner commands.",
     cooldown: 5,
 
     async execute({ api, event }) {
